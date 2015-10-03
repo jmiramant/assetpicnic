@@ -7,10 +7,6 @@ $ npm install -g gulp
 $ npm install -g bower
 ```
 
-## Installation
-To start with MEAN install the `mean-cli` package from NPM.
-This will add the *mean* command which lets you interact (install, manage, update ...) your Mean based application.
-
 ### Invoke node with gulp
 
 To start your application run -
