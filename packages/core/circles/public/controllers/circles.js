@@ -6,7 +6,7 @@ angular.module('mean.circles').controller('CirclesController', ['$scope', 'Globa
         var vm = this;
 
         vm.global = Global;
-        
+
 
         vm.availableCircles = [];
         Circles.all(function(acl) {

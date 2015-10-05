@@ -1,10 +1,11 @@
 {
-  "name": "Asset Picnic",
+  "name": "mean",
   "description": "Simplying static asset management",
   "version": "0.0.1",
   "private": false,
   "author": "Josh Miramant <josh@miramant.me>",
   "contributors": "https://github.com/jmiramant",
+  "mean": "0.5.5",
   "repository": {
     "type": "git",
     "url": "https://github.com/jmiramant/assetpicnic"
